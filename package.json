@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "express": "^4.17.3",
     "getusermedia": "^2.0.1",
     "mongo": "^0.1.0"
   },
