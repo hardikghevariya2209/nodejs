@@ -1,4 +1,4 @@
-const EventEmitter = require('node:events')
+const EventEmitter = require('events')
 
 class PizzaShop extends EventEmitter {
     constructor() {
